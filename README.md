@@ -11,3 +11,6 @@ $ sudo ./lagpi
 ```
 
 Licensed ISC
+
+EGL graphics library tutorial
+https://jan.newmarch.name/RPi/EGL/
